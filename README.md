@@ -8,4 +8,4 @@
 - Where there any parts that of the lab you found challenging ?
   
   Because it's my fisrt time, I found it a little but hard, there is a new ideas and I faced many errors during the process but in the same time
-  I learned how I can troublshoot the issues from the inspect and from the backend side also how to built the routing with axios and make it speratly 
+  I learned how I can troublshoot the issues from the inspect and from the backend side also how to built the routing with axios and make it separately 
