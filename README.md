@@ -7,4 +7,4 @@ In this lab I tried to use a postgreSQL insted of localstorge to save, display, 
 
 - Where there any parts that of the lab you found challenging ?
 
-  how to store the data from localstorge in to database, also how we can apply the changes related to save and delete 
+ when I tried to build the route for database,also when I tried to save and display the data  
