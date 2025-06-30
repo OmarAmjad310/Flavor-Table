@@ -7,4 +7,4 @@ In this lab I tried to use a postgreSQL insted of localstorge to save, display, 
 
 - Where there any parts that of the lab you found challenging ?
 
-  when I tried to build the route for database, also when I tried to save and display the data  
+  During the implementation of the database route, I faced challenges in saving and displaying data on the frontend, prompting me to debug the issues.
