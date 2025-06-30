@@ -303,6 +303,54 @@ center {
     color: white;
 }
 
+#saveRecipeBtn {
+    background-color: #3e6aa0;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+#saveRecipeBtn:hover {
+    background-color: #54c7bb;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+#saveRecipeBtn:active {
+    transform: translateY(0);
+}
+
+.delete-btn {
+    background-color: #afcdf3;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+.delete-btn:hover {
+    background-color: #409289;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.delete-btn:active {
+    transform: translateY(0);
+}
+
 /* Responsive Adjustments */
 @media (max-width: 768px) {
     .recipe-card-img-container {
