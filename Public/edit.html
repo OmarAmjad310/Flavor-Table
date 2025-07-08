@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit recipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <h1>Flavor Table</h1>
+    <nav class="navbar">
+        <a href="index.html">Search Recipes</a>
+        <a href="randomRecipes.html">Random Recipe</a>
+        <a href="Favorite.html">Favorites</a>
+        <a href="newfavorite.html">newfavorite</a>
+        <a href="edit.html">change recipes</a>
+    </nav>
+    
+     <h1>Edit Recipe</h1>
+    
+     <form id="updateForm">
+  <input type="hidden" id="update-id" value="" />
+
+  <label>Title: 
+    <input type="text" id="update-title" required />
+  </label><br />
+
+  <label>Image URL: 
+    <input type="text" id="update-image" />
+  </label><br />
+
+  <label>Instructions:<br />
+    <textarea id="update-instructions" required></textarea>
+  </label><br />
+
+  <label>Ingredients (comma-separated):<br />
+    <textarea id="update-ingredients" required></textarea>
+  </label><br />
+
+  <label>Ready In (minutes): 
+    <input type="number" id="update-readyin" required />
+  </label><br />
+
+  <button type="submit">Update Recipe</button>
+
+</form>
+
+
+
+    <script src="newfavorite.js"></script> 
+</body>
+</html>
