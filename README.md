@@ -9,3 +9,8 @@
 
 [Flavor-table-CRUD](https://github.com/OmarAmjad310/Flavor-Table/blob/Flavor-Table-CRUD)
 
+# Flavor-Table-JWTToken:
+- In this lab we used The generated JWT token to secure the important information.
+
+[Flavor-table-CRUD](https://github.com/OmarAmjad310/Flavor-Table/blob/Flavor-Table-CRUD)
+
