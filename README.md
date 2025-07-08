@@ -1,10 +1,11 @@
-# Flavor-Table-CRUD
-In this lab I tried to use a postgreSQL insted of localstorge to save, display, delete and update the Data
 
- - how many days did it takes to complete it ?
-   
-   2 days
+# Flavor-Table:
+- The main idea from doing this lab to deal with frontend and backend with each other:
 
-- Where there any parts that of the lab you found challenging ?
+[Flavor-table-lab](https://github.com/OmarAmjad310/Flavor-Table/blob/Flavor-Table-Lab)
 
-  During the implementation of the database route, I faced challenges in saving and displaying data on the frontend, prompting me to debug the issues.
+# Flavor-Table-CRUD:
+- In this lab we used CRUD operations to route the data from localstorge to postgre SQl.
+
+[Flavor-table-CRUD](https://github.com/OmarAmjad310/Flavor-Table/blob/Flavor-Table-CRUD)
+
