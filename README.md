@@ -1,4 +1,4 @@
-# Flavor-Table
+# Flavor-Table-CRUD
 In this lab I tried to use a postgreSQL insted of localstorge to save, display, delete and update the Data
 
  - how many days did it takes to complete it ?
